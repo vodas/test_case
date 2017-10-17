@@ -25,7 +25,7 @@ class ItemService implements ItemServiceInterface
      * @var []
      */
     private $collectionNameToIdMapping = [
-        "winter" => 1314575
+        "winter" => 1315475,
     ];
 
     /**
